@@ -1,4 +1,4 @@
-#update 2024041300
+#update20240402301
 
 local-zone: "0123movie.net" redirect
 local-data: "0123movie.net A 127.0.0.1"
@@ -2303,6 +2303,10 @@ local-data: "blueplay.live AAAA ::1"
 local-zone: "blueplay.me" redirect
 local-data: "blueplay.me A 127.0.0.1"
 local-data: "blueplay.me AAAA ::1"
+
+local-zone: "blueplay.pro" redirect
+local-data: "blueplay.pro A 127.0.0.1"
+local-data: "blueplay.pro AAAA ::1"
 
 local-zone: "blueplay.site" redirect
 local-data: "blueplay.site A 127.0.0.1"
@@ -20587,3 +20591,143 @@ local-data: "seriesonline.tax AAAA ::1"
 local-zone: "supertela.vg" redirect
 local-data: "supertela.vg A 127.0.0.1"
 local-data: "supertela.vg AAAA ::1"
+
+local-zone: "cinevision2.com" redirect
+local-data: "cinevision2.com A 127.0.0.1"
+local-data: "cinevision2.com AAAA ::1"
+
+local-zone: "torrentfilmes.pro" redirect
+local-data: "torrentfilmes.pro A 127.0.0.1"
+local-data: "torrentfilmes.pro AAAA ::1"
+
+local-zone: "filmestorrentbr.com.br" redirect
+local-data: "filmestorrentbr.com.br A 127.0.0.1"
+local-data: "filmestorrentbr.com.br AAAA ::1"
+
+local-zone: "megatorrenthd1.com" redirect
+local-data: "megatorrenthd1.com A 127.0.0.1"
+local-data: "megatorrenthd1.com AAAA ::1"
+
+local-zone: "multicanais.lu" redirect
+local-data: "multicanais.lu A 127.0.0.1"
+local-data: "multicanais.lu AAAA ::1"
+
+local-zone: "netcine.vg" redirect
+local-data: "netcine.vg A 127.0.0.1"
+local-data: "netcine.vg AAAA ::1"
+
+local-zone: "superflix.watch" redirect
+local-data: "superflix.watch A 127.0.0.1"
+local-data: "superflix.watch AAAA ::1"
+
+local-zone: "multicanais.uk" redirect
+local-data: "multicanais.uk A 127.0.0.1"
+local-data: "multicanais.uk AAAA ::1"
+
+local-zone: "multicanais.pw" redirect
+local-data: "multicanais.pw A 127.0.0.1"
+local-data: "multicanais.pw AAAA ::1"
+
+local-zone: "multicanais.lu" redirect
+local-data: "multicanais.lu A 127.0.0.1"
+local-data: "multicanais.lu AAAA ::1"
+
+local-zone: "multicanais.guru" redirect
+local-data: "multicanais.guru A 127.0.0.1"
+local-data: "multicanais.guru AAAA ::1"
+
+local-zone: "multicanaistv1.com" redirect
+local-data: "multicanaistv1.com A 127.0.0.1"
+local-data: "multicanaistv1.com AAAA ::1"
+
+local-zone: "futemax1.online" redirect
+local-data: "futemax1.online A 127.0.0.1"
+local-data: "futemax1.online AAAA ::1"
+
+local-zone: "multicanais.wf" redirect
+local-data: "multicanais.wf A 127.0.0.1"
+local-data: "multicanais.wf AAAA ::1"
+
+local-zone: "superflixcanais.net" redirect
+local-data: "superflixcanais.net A 127.0.0.1"
+local-data: "superflixcanais.net AAAA ::1"
+
+local-zone: "superflixplay.com" redirect
+local-data: "superflixplay.com A 127.0.0.1"
+local-data: "superflixplay.com AAAA ::1"
+
+local-zone: "3cuevana3.me" redirect
+local-data: "3cuevana3.me A 127.0.0.1"
+local-data: "3cuevana3.me AAAA ::1"
+
+local-zone: "3cuevana3.mobi" redirect
+local-data: "3cuevana3.mobi A 127.0.0.1"
+local-data: "3cuevana3.mobi AAAA ::1"
+
+local-zone: "cuevana10.design" redirect
+local-data: "cuevana10.design A 127.0.0.1"
+local-data: "cuevana10.design AAAA ::1"
+
+local-zone: "cuevana-3.fm" redirect
+local-data: "cuevana-3.fm A 127.0.0.1"
+local-data: "cuevana-3.fm AAAA ::1"
+
+local-zone: "cuevana.org.pe" redirect
+local-data: "cuevana.org.pe A 127.0.0.1"
+local-data: "cuevana.org.pe AAAA ::1"
+
+local-zone: "lacuevana.org" redirect
+local-data: "lacuevana.org A 127.0.0.1"
+local-data: "lacuevana.org AAAA ::1"
+
+local-zone: "lacuevana.co" redirect
+local-data: "lacuevana.co A 127.0.0.1"
+local-data: "lacuevana.co AAAA ::1"
+
+local-zone: "vertvonline.tv" redirect
+local-data: "vertvonline.tv A 127.0.0.1"
+local-data: "vertvonline.tv AAAA ::1"
+
+local-zone: "overflix.cfd" redirect
+local-data: "overflix.cfd A 127.0.0.1"
+local-data: "overflix.cfd AAAA ::1"
+
+local-zone: "overflix.gift" redirect
+local-data: "overflix.gift A 127.0.0.1"
+local-data: "overflix.gift AAAA ::1"
+
+local-zone: "redplaycardpremium.com" redirect
+local-data: "redplaycardpremium.com A 127.0.0.1"
+local-data: "redplaycardpremium.com AAAA ::1"
+
+local-zone: "redplaybrasil.com" redirect
+local-data: "redplaybrasil.com A 127.0.0.1"
+local-data: "redplaybrasil.com AAAA ::1"
+
+local-zone: "tvexpressbrasil.pro" redirect
+local-data: "tvexpressbrasil.pro A 127.0.0.1"
+local-data: "tvexpressbrasil.pro AAAA ::1"
+
+local-zone: "goflix1.com" redirect
+local-data: "goflix1.com A 127.0.0.1"
+local-data: "goflix1.com AAAA ::1"
+
+local-zone: "twoflix2.com" redirect
+local-data: "twoflix2.com A 127.0.0.1"
+local-data: "twoflix2.com AAAA ::1"
+
+local-zone: "compretyflex.online" redirect
+local-data: "compretyflex.online A 127.0.0.1"
+local-data: "compretyflex.online AAAA ::1"
+
+local-zone: "tyflexsite.online" redirect
+local-data: "tyflexsite.online A 127.0.0.1"
+local-data: "tyflexsite.online AAAA ::1"
+
+local-zone: "tyflex-filmeseseries.online" redirect
+local-data: "tyflex-filmeseseries.online A 127.0.0.1"
+local-data: "tyflex-filmeseseries.online AAAA ::1"
+
+local-zone: "tyflex-oficial.shop" redirect
+local-data: "tyflex-oficial.shop A 127.0.0.1"
+local-data: "tyflex-oficial.shop AAAA ::1"
