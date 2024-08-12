@@ -1,12 +1,13 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024073100      ; Serial
+                2024081200      ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
                 2h              ; Negative Cache TTL
         )
         NS  localhost.
+
 
 0123movie.net            IN CNAME .
 0123movie.rest            IN CNAME .
@@ -915,6 +916,7 @@ cinevision.club            IN CNAME .
 cinevision.fun            IN CNAME .
 cinevision.love            IN CNAME .
 cinevision.me            IN CNAME .
+cinevision.one            IN CNAME .
 cinevision.online            IN CNAME .
 cinevision.to            IN CNAME .
 cinevision.tube            IN CNAME .
@@ -947,6 +949,7 @@ cinevisionv5.app            IN CNAME .
 cinevisionv5.cc            IN CNAME .
 cinevisionv5.net            IN CNAME .
 cinevisionv5.online            IN CNAME .
+cinevisionv5.org            IN CNAME .
 cinevisionv5.to            IN CNAME .
 cinevisionv5.vc            IN CNAME .
 cinevisionv6.biz            IN CNAME .
@@ -2131,6 +2134,7 @@ filmesteca.com            IN CNAME .
 filmestorrent-hd.net            IN CNAME .
 filmestorrent.blog            IN CNAME .
 filmestorrent.gratis            IN CNAME .
+filmestorrent.info            IN CNAME .
 filmestorrent.live            IN CNAME .
 filmestorrent.me            IN CNAME .
 filmestorrent.net            IN CNAME .
@@ -2138,6 +2142,8 @@ filmestorrent.site            IN CNAME .
 filmestorrent.to            IN CNAME .
 filmestorrent.tv            IN CNAME .
 filmestorrent.vip            IN CNAME .
+filmestorrent1.com            IN CNAME .
+filmestorrent20.com            IN CNAME .
 filmestorrent20.org            IN CNAME .
 filmestorrent2022.com            IN CNAME .
 filmestorrent2022.net            IN CNAME .
@@ -3076,6 +3082,7 @@ megafilmeshd21.pro            IN CNAME .
 megafilmeshd5.site            IN CNAME .
 megafilmeshd50.app            IN CNAME .
 megafilmeshd50.com            IN CNAME .
+megafilmeshd50.fo            IN CNAME .
 megafilmeshd50.live            IN CNAME .
 megafilmeshd50.net            IN CNAME .
 megafilmeshd50.org            IN CNAME .
@@ -3113,6 +3120,7 @@ megafilmeshds.me            IN CNAME .
 megafilmeshds.net            IN CNAME .
 megafilmeshds.online            IN CNAME .
 megafilmeshds.org            IN CNAME .
+megafilmeshds.pro            IN CNAME .
 megafilmeshdseries.com            IN CNAME .
 megafilmeshdseries.org            IN CNAME .
 megafilmeshdseries.top            IN CNAME .
@@ -3219,6 +3227,7 @@ megaflixhd.ml            IN CNAME .
 megaflixhd.online            IN CNAME .
 megaflixhd.org            IN CNAME .
 megaflixhd.top            IN CNAME .
+megaflixhd.vc            IN CNAME .
 megaflixhd.vip            IN CNAME .
 megaflixhd.xyz            IN CNAME .
 megaflixon.cf            IN CNAME .
@@ -4595,6 +4604,7 @@ redecanais.to            IN CNAME .
 redecanais.top            IN CNAME .
 redecanais.tv            IN CNAME .
 redecanais.uno            IN CNAME .
+redecanais.vc            IN CNAME .
 redecanais.vg            IN CNAME .
 redecanais.video            IN CNAME .
 redecanais.wf            IN CNAME .
@@ -4847,6 +4857,7 @@ seriesflix.vip            IN CNAME .
 seriesflix.watch            IN CNAME .
 seriesflix.website            IN CNAME .
 seriesflix.world            IN CNAME .
+seriesflix.ws            IN CNAME .
 seriesflix.xyz            IN CNAME .
 seriesflix.zip            IN CNAME .
 seriesflix1.com            IN CNAME .
@@ -4874,6 +4885,7 @@ seriesflixapp.online            IN CNAME .
 seriesflixapp.vip            IN CNAME .
 seriesflixbr.com            IN CNAME .
 seriesflixbr.live            IN CNAME .
+seriesflixbr.net            IN CNAME .
 seriesflixbr.online            IN CNAME .
 seriesflixbr.to            IN CNAME .
 seriesflixbr.vip            IN CNAME .
@@ -4914,6 +4926,7 @@ seriesflixtv3.live            IN CNAME .
 seriesflixtv3.online            IN CNAME .
 seriesflixtv3.vip            IN CNAME .
 seriesfx.live            IN CNAME .
+seriesfx.me            IN CNAME .
 seriesfxhd.to            IN CNAME .
 seriesfxtv.com            IN CNAME .
 seriesfxtv.live            IN CNAME .
@@ -5294,6 +5307,7 @@ superflixhdx.com            IN CNAME .
 superflixone.com            IN CNAME .
 superflixonline.com            IN CNAME .
 superflixplay.com            IN CNAME .
+superflixplay.xyz            IN CNAME .
 superflixplus.com            IN CNAME .
 superflixseries.online            IN CNAME .
 superflixtv.com            IN CNAME .
@@ -5302,6 +5316,7 @@ superflixtv.site            IN CNAME .
 superflixvip.com            IN CNAME .
 superflixx.net            IN CNAME .
 superflixx.online            IN CNAME .
+superflixx.org            IN CNAME .
 superfutebol.com.br            IN CNAME .
 superfutebol.tv            IN CNAME .
 superfx.live            IN CNAME .
