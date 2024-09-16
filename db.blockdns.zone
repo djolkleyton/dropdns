@@ -1081,7 +1081,7 @@ clipconverter.io            IN CNAME .
 clubedovapor.com            IN CNAME .
 clubetvhd.com            IN CNAME .
 clubevaper.com            IN CNAME .
-clubevapor.com            IN CNAME .
+*.clubevapor.com            IN CNAME .
 clubiptv.com.br            IN CNAME .
 clubiptv.site            IN CNAME .
 clubsrv.me            IN CNAME .
