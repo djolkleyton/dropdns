@@ -8,7 +8,7 @@ $TTL 1H
         )
         NS  localhost.
 
-;Atualizado em: 08-10-2024 21:41:07
+;Atualizado em: 11-10-2024 21:41:07
 0123movie.biz            IN CNAME .
 0123movie.club            IN CNAME .
 0123movie.cx            IN CNAME .
