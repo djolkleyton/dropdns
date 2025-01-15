@@ -1,6 +1,6 @@
 $TTL 1H
 @       IN      SOA LOCALHOST. localhost.localhost. (
-                2024100900      ; Serial
+                2025011500      ; Serial
                 1h              ; Refresh
                 15m             ; Retry
                 30d             ; Expire
@@ -8,7 +8,7 @@ $TTL 1H
         )
         NS  localhost.
 
-;Atualizado em: 07-01-2025 10:00:00
+;Atualizado em: 15-01-2025 10:00:00
 0012bet.com            IN CNAME .
 001game1.com            IN CNAME .
 001game10.com            IN CNAME .
@@ -6121,6 +6121,7 @@ clubtvpremium.com            IN CNAME .
 clubtvpremium.in            IN CNAME .
 clubtvpremium.net            IN CNAME .
 clumykservicos.com.br            IN CNAME .
+cm7brasil.com            IN CNAME .
 cmjogo1998.com            IN CNAME .
 cmjogo777.com            IN CNAME .
 cmovies123.com            IN CNAME .
@@ -12809,6 +12810,7 @@ podeplay.org            IN CNAME .
 podersports.bet.br            IN CNAME .
 polarpg.com            IN CNAME .
 poledesign.ru            IN CNAME .
+politicaregional.blog            IN CNAME .
 polkafood.pl            IN CNAME .
 pontedomel.click            IN CNAME .
 pontodosrateios.com            IN CNAME .
